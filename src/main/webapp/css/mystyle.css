@@ -1,0 +1,109 @@
+/* table  ---------------------------*/
+table.dataintable {
+  margin-top:15px;
+  border-collapse:collapse;
+  border:1px solid #aaa;
+}
+table.dataintable th {
+  vertical-align:baseline;
+  padding:5px 15px 5px 6px;
+  background-color:#3F3F3F;
+  border:1px solid #3F3F3F;
+  text-align:left;
+  color:#fff;
+}
+table.dataintable td {
+  vertical-align:text-top;
+  padding:6px 15px 6px 6px;
+  border:1px solid #aaa;
+}
+table.dataintable tr:nth-child(odd) {
+  background-color:#F5F5F5;
+}
+table.dataintable tr:nth-child(even) {
+  background-color:#fff;
+}
+
+/* table  ---------------------------*/
+/* div ---------------------------*/
+div.centre{
+	margin:0 auto;width:300px;height:100px
+	
+}
+ /*   pour le tableau de add.jsp*/
+div.centre1{
+	margin:0 auto;width:800px;height:100px
+	
+} /*   pour le tableau de book.jsp*/
+div.button{
+	margin:0 auto;width:300px;height:50px
+}
+div.input{
+	margin:0 auto;width:300px;height:40px
+}
+/* div  ---------------------------*/
+
+/* button  ---------------------------*/
+button {
+    background-color: #000000; /* Green */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+     width:200px;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+    
+
+button.recherche{
+    background-color: #000000; /* Green */
+    color: white;
+    padding:0px 0px;
+    text-align: center;
+    text-decoration: none;
+     width:80px;
+     height:20px;
+    display: inline-block;
+    font-size: 10px;
+    
+}
+button.recherche{
+    background-color: #000000; /* Green */
+    color: white;
+    padding:0px 0px;
+    text-align: center;
+    text-decoration: none;
+     width:150px;
+     height:20px;
+    display: inline-block;
+    font-size: 10px;
+    
+}
+button.panier{
+    background-color: #000000; /* Green */
+    color: white;
+    padding:0px 0px;
+    text-align: center;
+    text-decoration: none;
+     height:20px;
+    display: inline-block;
+    font-size: 10px;
+    
+}
+input.button{
+    background-color: #000000; 
+    color: white;
+    text-align: center;
+     width:200px;
+    font-size: 10px;
+    
+}
+ 
+    
+/* button ---------------------------*/
+/* font ---------------------------*/
+h1 { width:100%; display:block; line-height:1.5em; overflow:visible;
+ font-size:30px; text-shadow:#f3f3f3 1px 1px 0px, #b2b2b2 1px 2px 0}
+ /* font ---------------------------*/
